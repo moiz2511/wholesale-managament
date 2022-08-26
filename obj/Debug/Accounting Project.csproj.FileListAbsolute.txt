@@ -1,0 +1,90 @@
+G:\Youtube\Projects\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+G:\Youtube\Projects\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+G:\Youtube\Projects\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+G:\Youtube\Projects\Accounting Project\Accounting Project\bin\Debug\MetroFramework.Design.dll
+G:\Youtube\Projects\Accounting Project\Accounting Project\bin\Debug\MetroFramework.dll
+G:\Youtube\Projects\Accounting Project\Accounting Project\bin\Debug\MetroFramework.Fonts.dll
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csprojResolveAssemblyReference.cache
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.LoginFrm.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.MainFrm.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.ProductEntryFrm.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.Expense.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.IncomeFrm.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.StockFrm.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.ProductListReport.resources
+G:\Youtube\Projects\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.PurchaseFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+G:\VIDEOS\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+G:\VIDEOS\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.Expense.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.IncomeFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.PurchaseFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.StockFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.LoginFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.MainFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.ProductEntryFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.ProductListReport.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.PurchaseBill.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csprojResolveAssemblyReference.cache
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.PurchaseDateWiseReport.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.BarcodeFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Maharashtra.FormMain.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.SaleFrm.resources
+G:\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.SaleBill.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csprojResolveAssemblyReference.cache
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.Expense.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.IncomeFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.PurchaseFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.SaleFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.StockFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.LoginFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.MainFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Maharashtra.FormMain.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.ProductEntryFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.BarcodeFrm.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.ProductListReport.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.PurchaseBill.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.PurchaseDateWiseReport.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.SaleBill.resources
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+G:\Youtube\VIDEOS\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.PersonFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+G:\Youtube\Project\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+G:\Youtube\Project\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csprojResolveAssemblyReference.cache
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.Expense.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.IncomeFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.PurchaseFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.SaleFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.StockFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.LoginFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.MainFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.BackupRecoveryFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Maharashtra.FormMain.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.PersonFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Project.ProductEntryFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.BarcodeFrm.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.ProductListReport.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.PurchaseBill.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.PurchaseDateWiseReport.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.SaleBill.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Reports.SaleReport.resources
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+G:\Youtube\Project\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Forms.CustomerDeposit.resources

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>viewItemWindow</class>
+ <widget class="QMainWindow" name="viewItemWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>799</width>
+    <height>1011</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Items</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QFrame" name="frame">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>801</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(209, 202, 214);</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>61</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Find Item:</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit">
+     <property name="geometry">
+      <rect>
+       <x>70</x>
+       <y>10</y>
+       <width>113</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(255, 255, 255);</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton">
+     <property name="geometry">
+      <rect>
+       <x>200</x>
+       <y>10</y>
+       <width>75</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(165, 159, 159);</string>
+     </property>
+     <property name="text">
+      <string>Find</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QTableWidget" name="tableWidget">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>40</y>
+      <width>801</width>
+      <height>511</height>
+     </rect>
+    </property>
+    <column>
+     <property name="text">
+      <string>Item</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Description</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Selling Price</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Purchase Price</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Quantity</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Last Sold</string>
+     </property>
+    </column>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>799</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuItem">
+    <property name="title">
+     <string>Item</string>
+    </property>
+    <addaction name="actionAdd_new_Item"/>
+    <addaction name="actionDelete_this_Item"/>
+    <addaction name="actionEdit_this_Item"/>
+    <addaction name="separator"/>
+    <addaction name="actionFind_Item"/>
+    <addaction name="actionFind_Next_Item"/>
+    <addaction name="separator"/>
+    <addaction name="actionReport"/>
+    <addaction name="actionImport_Items_From_CSV"/>
+    <addaction name="separator"/>
+    <addaction name="actionClose"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionHelp_Contents"/>
+    <addaction name="actionContact_Software_Developer"/>
+   </widget>
+   <addaction name="menuItem"/>
+   <addaction name="menuHelp"/>
+  </widget>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionAdd"/>
+   <addaction name="actionDelete"/>
+   <addaction name="actionEdit"/>
+   <addaction name="actionPrint"/>
+  </widget>
+  <action name="actionAdd">
+   <property name="icon">
+    <iconset>
+     <normaloff>C:/Users/MOIZ/Downloads/icons/plus-circle.png</normaloff>C:/Users/MOIZ/Downloads/icons/plus-circle.png</iconset>
+   </property>
+   <property name="text">
+    <string>Add</string>
+   </property>
+   <property name="toolTip">
+    <string>Add a new Item</string>
+   </property>
+  </action>
+  <action name="actionDelete">
+   <property name="icon">
+    <iconset>
+     <normaloff>C:/Users/MOIZ/Downloads/icons/cross-octagon.png</normaloff>C:/Users/MOIZ/Downloads/icons/cross-octagon.png</iconset>
+   </property>
+   <property name="text">
+    <string>Delete</string>
+   </property>
+   <property name="toolTip">
+    <string>Delete a Item</string>
+   </property>
+  </action>
+  <action name="actionEdit">
+   <property name="icon">
+    <iconset>
+     <normaloff>C:/Users/MOIZ/Downloads/icons/pencil.png</normaloff>C:/Users/MOIZ/Downloads/icons/pencil.png</iconset>
+   </property>
+   <property name="text">
+    <string>Edit</string>
+   </property>
+   <property name="toolTip">
+    <string>Edit an Item</string>
+   </property>
+  </action>
+  <action name="actionPrint">
+   <property name="icon">
+    <iconset>
+     <normaloff>C:/Users/MOIZ/Downloads/icons/printer.png</normaloff>C:/Users/MOIZ/Downloads/icons/printer.png</iconset>
+   </property>
+   <property name="text">
+    <string>Print</string>
+   </property>
+   <property name="toolTip">
+    <string>Print Report</string>
+   </property>
+  </action>
+  <action name="actionAdd_new_Item">
+   <property name="text">
+    <string>Add new Item</string>
+   </property>
+  </action>
+  <action name="actionDelete_this_Item">
+   <property name="text">
+    <string>Delete this Item</string>
+   </property>
+  </action>
+  <action name="actionEdit_this_Item">
+   <property name="text">
+    <string>Edit this Item</string>
+   </property>
+  </action>
+  <action name="actionFind_Item">
+   <property name="text">
+    <string>Find Item</string>
+   </property>
+  </action>
+  <action name="actionFind_Next_Item">
+   <property name="text">
+    <string>Find Next Item</string>
+   </property>
+  </action>
+  <action name="actionReport">
+   <property name="text">
+    <string>Report</string>
+   </property>
+  </action>
+  <action name="actionImport_Items_From_CSV">
+   <property name="text">
+    <string>Import Items from CSV</string>
+   </property>
+  </action>
+  <action name="actionClose">
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </action>
+  <action name="actionHelp_Contents">
+   <property name="text">
+    <string>Help Contents</string>
+   </property>
+  </action>
+  <action name="actionContact_Software_Developer">
+   <property name="text">
+    <string>Contact Software Developer</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
